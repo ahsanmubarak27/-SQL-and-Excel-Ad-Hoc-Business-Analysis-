@@ -28,7 +28,7 @@ The data is structured to allow joins and analysis across multiple business dime
 - Several months showed negative net profit, mostly due to higher expenses not matched by profit growth.  
 
 ## Project Files
-- `sql_queries/` → contains `.sql` scripts for schema and analysis queries  
+- `Analysis Queries.sql` → scripts for schema and analysis queries  
 - `Ad Hoc Report.xlsx` → final Excel report with charts and insights  
 
 ## Author
