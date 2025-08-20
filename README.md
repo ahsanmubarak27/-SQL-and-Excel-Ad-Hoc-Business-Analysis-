@@ -29,7 +29,7 @@ The data is structured to allow joins and analysis across multiple business dime
 
 ## Project Files
 - `sql_queries/` → contains `.sql` scripts for schema and analysis queries  
-- `excel_report/Ad_Hoc_Report.xlsx` → final Excel report with charts and insights  
+- `Ad Hoc Report.xlsx` → final Excel report with charts and insights  
 
 ## Author
 Ahsan Mubarak
